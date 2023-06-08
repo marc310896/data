@@ -1,0 +1,14 @@
+name: formic_acid_2023
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.6
+  - pip
+  - pytest
+  - jupyterlab
+  - pip:
+    - poreana
+    - porems
+    - pandas
+    - matplotlib
