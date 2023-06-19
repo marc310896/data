@@ -1,0 +1,424 @@
+Comment:
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+- Experimental Data
+- Experimental Data
+- Interpolated
+- Experimental Data
+Diffusion (10^-9 m^2s^-1):
+- 1.9324999999999999
+- 2.1759999999999997
+- 2.290153846153846
+- 0.8095000000000001
+- 0.9969999999999999
+- 0.9673714285714287
+- 1.052142857142857
+- 0.504
+- 0.536
+- 0.5737
+- 0.621
+- 0.397
+- 0.42629999999999996
+- 0.4431666666666666
+- 1.8454545454545452
+- 2.0951125000000004
+- 2.195684210526316
+- 1.984
+- 2.0625
+- 2.07
+- 2.2915000000000005
+- 1.47
+- 1.34
+- 1.8339999999999996
+- 1.99
+- 3.85
+- 3.9286000000000003
+- 4.279857142857143
+- 2.8550000000000004
+- 3.108
+- 3.1649999999999996
+- 3.1
+- 1.1943333333333332
+- 1.3966
+- 1.4398421052631578
+- 2.52
+- 2.7439999999999998
+- 2.8866666666666663
+- 1.8080000000000003
+- 2.0865
+- 2.08045
+- 2.3382666666666667
+Molecule:
+- methanol
+- methanol
+- methanol
+- ethanol
+- ethanol
+- ethanol
+- ethanol
+- 1-propanol
+- 1-propanol
+- 1-propanol
+- 1-propanol
+- 1-butanol
+- 1-butanol
+- 1-butanol
+- benzene
+- benzene
+- benzene
+- toluene
+- toluene
+- toluene
+- toluene
+- pyridine
+- pyridine
+- pyridine
+- pyridine
+- hexane
+- hexane
+- hexane
+- heptane
+- heptane
+- heptane
+- cyclopentane
+- cyclohexane
+- cyclohexane
+- cyclohexane
+- tetrahydrofuran
+- tetrahydrofuran
+- tetrahydrofuran
+- water
+- water
+- water
+- water
+Number of Data:
+- 4.0
+- 5.0
+- 13.0
+- 4.0
+- 1.0
+- 7.0
+- 7.0
+- 1.0
+- 1.0
+- 2.0
+- 3.0
+- 1.0
+- 2.0
+- 6.0
+- 11.0
+- 8.0
+- 19.0
+- 1.0
+- 2.0
+- 1.0
+- 6.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 2.0
+- 7.0
+- 2.0
+- 1.0
+- 4.0
+- 1.0
+- 3.0
+- 1.0
+- 19.0
+- 1.0
+- 1.0
+- 3.0
+- 6.0
+- 2.0
+- 4.0
+- 15.0
+References:
+- - 'Partington, J. R.; Hudson, R. F.; Bagnall, Nature, 169, 583-584, 1952 '
+  - "Hiraoka, H.; Izui, Y.; Osugi, J.; Jono, W., Rev. Phys. Chem. Jpn. 1958, 28, 61\u2212\
+    63. "
+  - "Rathbun, R. E.; Babb, A. L., J. Phys. Chem. 1961, 65, 1072\u22121074. "
+  - "Holz,M.;Weingar\u0308tner,H., J. Magn. Reson. (1969-1992) 1991, 92, 115\u2212\
+    125. "
+- - "Siddharth Agrawal, Mahmoud Elmehlawy, and Michael P. Hoepfner, J. Phys. Chem.\
+    \ C 2021, 125, 11097\u221211106"
+  - Partington, J. R.; Hudson, R. F.; Bagnall, Nature, 169, 583-584, 1952 (Interpolation)
+  - "Hiraoka, H.; Izui, Y.; Osugi, J.; Jono, W., Rev. Phys. Chem. Jpn. 1958, 28, 61\u2212\
+    63. (Interpolation)"
+  - "Rathbun, R. E.; Babb, A. L., J. Phys. Chem. 1961, 65, 1072\u22121074. (Interpolation)"
+  - "Holz,M.;Weingar\u0308tner,H., J. Magn. Reson. (1969-1992) 1991, 92, 115\u2212\
+    125. (Interpolation)"
+- Dortmund Data Bank. www.ddbst.com, 2018
+- - "Partington, J. R.; Hudson, R. F.; Bagnall, K. W., Nature 1952, 169, 583\u2212\
+    584. "
+  - "Rathbun, R. E.; Babb, A. L., J. Phys. Chem. 1961, 65, 1072\u22121074. "
+  - "Holz, M.; Mao, X. A.; Seiferling, D.; Sacco, A., J. Chem. Phys. 1996, 104, 669\u2212\
+    679.\_"
+  - "Graupner, K.; Winter, E. R. S., J. Chem. Soc. 1952, 1145\u22121150.\_"
+- - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000"
+- - "Siddharth Agrawal, Mahmoud Elmehlawy, and Michael P. Hoepfner, J. Phys. Chem.\
+    \ C 2021, 125, 11097\u221211106"
+  - "Partington, J. R.; Hudson, R. F.; Bagnall, K. W., Nature 1952, 169, 583\u2212\
+    584. (Interpolation)"
+  - "Rathbun, R. E.; Babb, A. L., J. Phys. Chem. 1961, 65, 1072\u22121074. (Interpolation)"
+  - "Holz, M.; Mao, X. A.; Seiferling, D.; Sacco, A., J. Chem. Phys. 1996, 104, 669\u2212\
+    679.\_(Interpolation)"
+  - "Price, W. E.; Ide, H.; Arata, Y., J. Phys. Chem. A 2003, 107, 4784\u22124789.\_\
+    (Interpolation)"
+  - "Graupner, K.; Winter, E. R. S., J. Chem. Soc. 1952, 1145\u22121150.\_(Interpolation)"
+  - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000\
+    \ (Interpolation)"
+- - 'Robert L. Hurle,   Allan J. Easteal  and  Lawrence A. Woolf, J . Chem. Soc.,
+    Faraday Trans. I , 1985,81, 769-779 '
+  - 'Kerry C. Pratt  and  William A. Wakeham, J. Chem. Soc., Faraday Trans. 2, 1977,73,
+    997-1002 '
+  - "Partington, J. R.; Hudson, R. F.; Bagnall, K. W., Nature 1952, 169, 583\u2212\
+    584. "
+  - 'K. Graupner  and  E. R. S. Winter, J. Chem. Soc., 1952, 1145-1150 '
+  - "Johnson, P. A.; Babb, A. L., J. Phys. Chem. 1956, 60, 14\u221219. "
+  - "Rathbun, R. E.; Babb, A. L., J. Phys. Chem. 1961, 65, 1072\u22121074. "
+  - "Hardt, A. P.; Anderson, D. K.; Rathbun, R.; Mar, B. W.; Babb, A. L., J. Phys.\
+    \ Chem. 1959, 63, 2059\u22122061. "
+- - 'Partington, J. R.; Hudson, R. F.; Bagnall, Nature, 169, 583-584, 1952 '
+- - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000"
+- - "Siddharth Agrawal, Mahmoud Elmehlawy, and Michael P. Hoepfner, J. Phys. Chem.\
+    \ C 2021, 125, 11097\u221211106"
+  - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000\
+    \ (Interpolation)"
+- - 'Partington, J. R.; Hudson, R. F.; Bagnall, Nature, 169, 583-584, 1952 '
+  - "Pratt, K. C.; Wakeham, W. A., J. Chem. Soc., Faraday Trans. 2 1977, 73, 997\u2212\
+    \ 1002. "
+  - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000"
+- - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000"
+- - "Siddharth Agrawal, Mahmoud Elmehlawy, and Michael P. Hoepfner, J. Phys. Chem.\
+    \ C 2021, 125, 11097\u221211106"
+  - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000\
+    \ (Interpolation)"
+- - "Partington, J. R.; Hudson, R. F.; Bagnall, K. W., Nature 1952, 169, 583\u2212\
+    584. "
+  - "P.S. Tofts, D. Lloyd, C.A. Clark, G.J. Barker, G.J.M. Parker, P. McConville,\
+    \ C. Baldock, J.M. Pope, \uFEFFMagnetic Resonance in Medicine, 43, 368-374, 2000"
+  - "McCall, D. W.; Douglass, D. C., J. Chem. Phys. 1960, 32, 1876\u22121877. "
+  - 'Callaghan, P. T.; Trotter, C. M.; Jolley, K. W., J. Magn. Reson. '
+  - "Gibbs, S. J.; Carpenter, T. A.; Hall, L. D., . J. Magn. Reson. (1969-1992) 1992,\
+    \ 98, 183\u2212 191. "
+  - "Iwahashi, M.; Ohbu, Y.; Kato, T.; Suzuki, Y.; Yamauchi, K.; Yamaguchi, Y.; Muramatsu,\
+    \ M., Bull. Chem. Soc. Jpn. 1986, 59, 3771\u22123774. "
+- Dortmund Data Bank. www.ddbst.com, 2018
+- - "Falcone, D. R.; Douglass, D. C.; McCall, D. W., J. Phys. Chem. 1967, 71, 2754\u2212\
+    2755.\_"
+  - "Holz, M.; Mao, X. A.; Seiferling, D.; Sacco, A., J. Chem. Phys. 1996, 104, 669\u2212\
+    679.\_"
+  - "Graupner, K.; Winter, E. R. S., J. Chem. Soc. 1952, 1145\u22121150.\_"
+  - "Hiraoka, H.; Osugi, J.; Jono, W., Rev. Phys. Chem. Jpn. 1958, 28, 52\u221260. "
+  - "Rathbun, R. E.; Babb, A. L., J. Phys. Chem. 1961, 65, 1072\u22121074. "
+  - "Collins, D. A.; Watts, H., Aust. J. Chem. 1964, 17, 516\u2212521. "
+  - "Collings, A. F.; Mills, R., Trans. Faraday Soc. 1970, 66, 2761\u22122766. "
+  - "McCool, M. A.; Collings, A. F.; Woolf, L. A., J. Chem. Soc., Faraday Trans. 1\
+    \ 1972, 68, 1489\u22121497. "
+- Dortmund Data Bank. www.ddbst.com, 2018
+- - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+- - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - "Gaisin, N. K., J. Struct. Chem. 1972, 12, 899\u2212906.\_"
+- - "Gaisin, N. K., J. Struct. Chem. 1972, 12, 899\u2212906.\_"
+- - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+- - "Holz, M.; Mao, X. A.; Seiferling, D.; Sacco, A., J. Chem. Phys. 1996, 104, 669\u2212\
+    679.\_"
+- - Neronov Yu.I., Chviruk O.V., Zh.Fiz.Khim., 42(7), 1612-1615, 1968
+- - "Holz, M.; Mao, X. A.; Seiferling, D.; Sacco, A., J. Chem. Phys. 1996, 104, 669\u2212\
+    679.\_/ Goldammer, E. V. and Zeidler, M. D., \uFEFFBerichte der Bunsengesellschaft\
+    \ f\xFCr physikalische Chemie, 73, 4-15,1969 (Interpolation between the references)"
+- - "Goldammer, E. V. and Zeidler, M. D., \uFEFFBerichte der Bunsengesellschaft f\xFC\
+    r physikalische Chemie, 73, 4-15,1969"
+- - Panchenkov G.M., Erchenkov V.V., Russ.J.Phys.Chem., 36(4), 455-457, 1962
+- - "Siddharth Agrawal, Mahmoud Elmehlawy, and Michael P. Hoepfner, J. Phys. Chem.\
+    \ C 2021, 125, 11097\u221211106\t\t\t\t\t\t\t\t\t"
+  - "Harris, K. R., J. Chem. Soc., Faraday Trans. 1 1982, 78, 2265\u22122274. "
+- - Iwahashi M., Yamaguchi Y., Ogura Y., Suzuki M., Bull.Chem.Soc.Japan, 63(8), 2154-2158,
+    1990
+  - Douglass D.C., McCall D.W., J.Phys.Chem., 62, 1102-1107, 1958
+  - McCall D.W., Douglass D.C., Anderson E.W., Phys.Fluids, 2(1), 87-91, 1959
+  - "Ghai, R. K.; Dullien, F. A. L., J. Phys. Chem. 1974, 78, 2283\u2212 2291. "
+  - "Shieh, J. J. C.; Lyons, P. A., J. Phys. Chem. 1969, 73, 3258\u22123264. "
+  - "Hawlicka, E.; Reimsch\xFCssel, W., Ber. Bunsen-Ges. 1981, 85, 210\u2212214. "
+  - "Harris, K. R., J. Chem. Soc., Faraday Trans. 1 1982, 78, 2265\u22122274. "
+- - Panchenkov G.M., Erchenkov V.V., Russ.J.Phys.Chem., 36(4), 455-457, 1962
+  - D'Agostino C., Mantle M.D., Gladden L.F., Moggridge G.D., Chem.Eng.Sci., 66(17),
+    3898-3906, 2011
+- - 'Moore, J. W.; Wellek, R. M., Journal of Chemical and Engineering data 19.2 (1974):
+    136-140.'
+- - Iwahashi M., Yamaguchi Y., Ogura Y., Suzuki M., Bull.Chem.Soc.Japan, 63(8), 2154-2158,
+    1990
+  - Douglass D.C., McCall D.W., J.Phys.Chem., 62, 1102-1107, 1958
+  - 'Moore, J. W.; Wellek, R. M., Journal of Chemical and Engineering data 19.2 (1974):
+    136-140.'
+  - "McCall, D. W.; Douglass, D. C.; Anderson, E. W., Phys. Fluids (1958-1988) 1959,\
+    \ 2, 87\u221291. "
+- - "Connell, M. A.; Bowyer, P. J.; Adam Bone, P.; Davis, A. L.; Swanson, A. G.; Nilsson,\
+    \ M.; Morris, G. A., J. Magn. Reson. 2009, 198, 121\u2212131. "
+- - McCool M.A., Woolf L.A., High Temp.-High Press., 4, 85-95, 1972
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+  - Harris K.R., Ganbold B., Price W.S., J.Chem.Eng.Data, 60(12), 3506-3517, 2015
+- - "Tofts, P. S.; Lloyd, D.; Clark, C. A.; Barker, G. J.; Parker, G. J. M.; McConville,\
+    \ P.; Baldock, C.; Pope, J. M., Magn. Reson. Med. 2000, 43, 368\u2212374.\_(Interpoolation)"
+- Dortmund Data Bank. www.ddbst.com, 2018
+- - "I. A. Sedov and T. I. Magsumov, J. Phys. Chem. B\_2015, 119, 28, 8773\u20138780"
+- - "I. A. Sedov and T. I. Magsumov, J. Phys. Chem. B\_2015, 119, 28, 8773\u20138780\
+    \ (Interpolation)"
+- - "I. A. Sedov and T. I. Magsumov, J. Phys. Chem. B\_2015, 119, 28, 8773\u20138780"
+  - "Daniel J. Gisser, Brian S. Johnson, M. D. Ediger, and Ernst D. Von Meerwall,\
+    \ Macromolecules 1993, 26, 3, 512\u2013519"
+  - "\uFEFFGoldammer, E. V. and Zeidler, M. D., \uFEFFBerichte der Bunsengesellschaft\
+    \ f\xFCr physikalische Chemie, 73, 1969, 4-15"
+- - 'Mills, R., The Journal of Physical Chemistry 77.5 (1973): 685-688.'
+  - Hans R. Pruppacher, J. Chem. Phys. 56, 101 (1972)
+  - 'Wang, J. H., Journal of the American Chemical Society 73.2 (1951): 510-513.'
+  - 'Partington, J. R., R. F. Hudson, and K. W. Bagnall., Nature 169.4301 (1952):
+    583-584.'
+  - 'Wang, Jui H., The Journal of Physical Chemistry 69.12 (1965): 4412-4412.'
+  - 'Tanaka, Kazuko., Journal of the Chemical Society, Faraday Transactions 1: Physical
+    Chemistry in Condensed Phases 71 (1975): 1127-1131.'
+- - Hans R. Pruppacher, J. Chem. Phys. 56, 101 (1972)
+  - 'Tanaka, Kazuko., Journal of the Chemical Society, Faraday Transactions 1: Physical
+    Chemistry in Condensed Phases 71 (1975): 1127-1131.'
+- - 'Mills, R., The Journal of Physical Chemistry 77.5 (1973): 685-688. (Interpolation)'
+  - 'Tanaka, Kazuko., Journal of the Chemical Society, Faraday Transactions 1: Physical
+    Chemistry in Condensed Phases 71 (1975): 1127-1131. (Interpolation)'
+  - Hans R. Pruppacher, J. Chem. Phys. 56, 101 (1972)  (Interpolation)
+  - 'Wang, Jui H., The Journal of Physical Chemistry 69.12 (1965): 4412-4412.  (Interpolation)'
+- Dortmund Data Bank. www.ddbst.com, 2018
+Standard deviation (10^-9 m^2s^-1):
+- 0.07562241731127087
+- 0.07598684096605149
+- 0.09548003911720228
+- 0.03795721275330948
+- 0.0
+- 0.03923488660020074
+- 0.05277019876361109
+- 0.0
+- 0.0
+- 0.001300000000000013
+- 0.023252240035460368
+- 0.0
+- 0.0057000000000000045
+- 0.03705139073713099
+- 0.053489784303111465
+- 0.0389507842507696
+- 0.03717391931190887
+- 0.0
+- 0.06249999999999999
+- 0.0
+- 0.018786076404259295
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.07859999999999989
+- 0.16413620526121303
+- 0.14499999999999996
+- 0.0
+- 0.08986100377805716
+- 0.0
+- 0.0033993463423952347
+- 0.0
+- 0.027187967845498606
+- 0.0
+- 0.0
+- 0.4014418457953226
+- 0.13854000625571425
+- 0.17349999999999996
+- 0.183308503621627
+- 0.16479298798458902
+Temperature (K):
+- 288
+- 295
+- 298
+- 288
+- 293
+- 295
+- 298
+- 288
+- 293
+- 295
+- 298
+- 293
+- 295
+- 298
+- 288
+- 295
+- 298
+- 288
+- 293
+- 295
+- 298
+- 288
+- 293
+- 295
+- 298
+- 293
+- 295
+- 298
+- 293
+- 295
+- 298
+- 298
+- 288
+- 295
+- 298
+- 288
+- 295
+- 298
+- 288
+- 293
+- 295
+- 298
