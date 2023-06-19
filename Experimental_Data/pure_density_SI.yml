@@ -1,4 +1,5 @@
-Temperature (K):
+Temperature:
+- K
 - 293.15
 - 295.15
 - 298.15
@@ -7,6 +8,7 @@ Temperature (K):
 - 323.15
 - 348.15
 Dioxane (Sim):
+- $kgm^{-3}$
 - 1043.4378
 - 1041.0854
 - 1037.6627999999998
@@ -15,6 +17,7 @@ Dioxane (Sim):
 - 1020.0872
 - 978.43912
 Formic acid (Sim):
+- kgm^-3
 - 1223.755
 - 1221.2876
 - 1217.6072
@@ -23,6 +26,7 @@ Formic acid (Sim):
 - 1186.8726
 - 1155.5099999999998
 Dioxane (Exp):
+- kgm^-3
 - 1033.61841
 - null
 - 1028.970607
@@ -31,6 +35,7 @@ Dioxane (Exp):
 - 1000.37157
 - 970.67
 Dioxane STD (Exp):
+- kgm^-3
 - 0
 - 0
 - 1.287997
@@ -39,6 +44,7 @@ Dioxane STD (Exp):
 - 1.716575
 - 0
 Formic acid (Exp):
+- kgm^-3
 - 1219.896244
 - 1209.265
 - 1214.425093
@@ -47,6 +53,7 @@ Formic acid (Exp):
 - 1182.656
 - 1153.8
 Formic acid STD (Exp):
+- kgm^-3
 - 3.348914
 - 8.935
 - 3.905868
@@ -55,6 +62,7 @@ Formic acid STD (Exp):
 - 5.893414
 - 1.88326
 Dioxane (Gupta et al.):
+- kgm^-3
 - 1034.0
 - null
 - null
@@ -63,6 +71,7 @@ Dioxane (Gupta et al.):
 - null
 - null
 Formic acid (Gupta et al.):
+- kgm^-3
 - 1221.0
 - null
 - null
